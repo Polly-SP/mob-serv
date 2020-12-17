@@ -1,1 +1,1 @@
-# mob-serv
+# mob-serv (Веб-сервер)
