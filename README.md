@@ -1,8 +1,11 @@
-## Лабораторная работа "Веб-сервис"
+__Л/р "Веб-сервис"__
 
-Backend: Node.js + Express + Mongoose (MongoDB)
+Backend:
+* *Node.js
+* *Express 
+* *MongoDB
 
-### Как Запустить
+__Как Запустить__
 
 1. cd backend && yarn && yarn start
 
