@@ -8,5 +8,7 @@ Backend:
 __Как Запустить__
 
 1. cd backend && yarn && yarn start
+
 OR
+
 2. cd frontend && yarn && sh fix.sh && yarn start
