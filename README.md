@@ -1,9 +1,9 @@
 __Л/р "Веб-сервис"__
 
 Backend:
-* *Node.js
-* *Express 
-* *MongoDB
+* _Node.js_
+* _Express_
+* _MongoDB_
 
 __Как Запустить__
 
