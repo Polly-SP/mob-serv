@@ -1,8 +1,8 @@
 import React from "react";
 import { Admin, Resource } from "react-admin";
-import simpleRestProvider from "ra-data-simple-rest";
 import PeopleIcon from "@material-ui/icons/People";
- 
+import simpleRestProvider from "ra-data-simple-rest";
+
 import { ClientCreate, ClientEdit, ClientList } from "./crud";
 import "./App.css";
 
